@@ -9,6 +9,6 @@ I am eager to apply my skills in security analysis, threat detection, and incide
 - **Microsoft Certified:** SC-200, AZ-500, AZ-104, AZ-900, SC-900
 
 ## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/tit4ns0ul/(#)
-- **GitHub:** https://github.com/Tit4ns0ul(#)
-- **Email:** Workwithkamal@outlook.com(#)
+- **LinkedIn:** https://www.linkedin.com/in/tit4ns0ul/
+- **GitHub:** https://github.com/Tit4ns0ul
+- **Email:** Workwithkamal@outlook.com
