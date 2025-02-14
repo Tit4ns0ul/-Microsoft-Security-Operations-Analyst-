@@ -127,6 +127,23 @@ SecurityEvent
 
 ---
 
+## 📝 Declaring Variables with `let`
+Use `let` to define reusable variables in queries.
+
+```kql
+let timeRange = 7d;
+let eventType = 4625;
+SecurityEvent
+| where TimeGenerated > ago(timeRange)
+| where EventID == eventType
+```
+- **`let timeRange = 7d;`** → Defines a variable for time range.
+- **`let eventType = 4625;`** → Defines a variable for event ID.
+
+This improves readability and reusability of queries.
+
+---
+
 ## 🎯 Conclusion
 KQL is an efficient way to analyze logs and detect security incidents. Mastering KQL can enhance your ability to work in **SOC (Security Operations Center)** roles and improve threat detection in **Microsoft Sentinel**.
 
